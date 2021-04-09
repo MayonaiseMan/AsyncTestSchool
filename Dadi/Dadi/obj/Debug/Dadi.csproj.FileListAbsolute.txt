@@ -1,0 +1,15 @@
+C:\Users\tomma\source\repos\Dadi\Dadi\bin\Debug\Dadi.exe.config
+C:\Users\tomma\source\repos\Dadi\Dadi\bin\Debug\Dadi.exe
+C:\Users\tomma\source\repos\Dadi\Dadi\bin\Debug\Dadi.pdb
+C:\Users\tomma\source\repos\Dadi\Dadi\obj\Debug\Dadi.csprojAssemblyReference.cache
+C:\Users\tomma\source\repos\Dadi\Dadi\obj\Debug\MainWindow.g.cs
+C:\Users\tomma\source\repos\Dadi\Dadi\obj\Debug\App.g.cs
+C:\Users\tomma\source\repos\Dadi\Dadi\obj\Debug\Dadi_MarkupCompile.cache
+C:\Users\tomma\source\repos\Dadi\Dadi\obj\Debug\Dadi_MarkupCompile.lref
+C:\Users\tomma\source\repos\Dadi\Dadi\obj\Debug\MainWindow.baml
+C:\Users\tomma\source\repos\Dadi\Dadi\obj\Debug\Dadi.g.resources
+C:\Users\tomma\source\repos\Dadi\Dadi\obj\Debug\Dadi.Properties.Resources.resources
+C:\Users\tomma\source\repos\Dadi\Dadi\obj\Debug\Dadi.csproj.GenerateResource.cache
+C:\Users\tomma\source\repos\Dadi\Dadi\obj\Debug\Dadi.csproj.CoreCompileInputs.cache
+C:\Users\tomma\source\repos\Dadi\Dadi\obj\Debug\Dadi.exe
+C:\Users\tomma\source\repos\Dadi\Dadi\obj\Debug\Dadi.pdb

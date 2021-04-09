@@ -1,0 +1,15 @@
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\bin\Debug\LetturaAsync.exe.config
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\bin\Debug\LetturaAsync.exe
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\bin\Debug\LetturaAsync.pdb
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\obj\Debug\LetturaAsync.csprojAssemblyReference.cache
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\obj\Debug\MainWindow.g.cs
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\obj\Debug\App.g.cs
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\obj\Debug\LetturaAsync_MarkupCompile.cache
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\obj\Debug\LetturaAsync_MarkupCompile.lref
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\obj\Debug\MainWindow.baml
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\obj\Debug\LetturaAsync.g.resources
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\obj\Debug\LetturaAsync.Properties.Resources.resources
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\obj\Debug\LetturaAsync.csproj.GenerateResource.cache
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\obj\Debug\LetturaAsync.csproj.CoreCompileInputs.cache
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\obj\Debug\LetturaAsync.exe
+C:\Users\tomma\source\repos\LetturaAsync\LetturaAsync\obj\Debug\LetturaAsync.pdb
